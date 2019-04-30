@@ -1,0 +1,30 @@
+body{
+    font-family:Helvetica;
+    height: 100vh;
+    display: table;
+    width: 99%;
+}
+.ng-scope{
+	    display: table-cell;
+    vertical-align: middle;
+   
+}
+  form input[type=submit],input[type=button]  {
+      background:#539859;
+      border:none;
+      width:100%;
+      color:#fff;
+          color: #fff;
+    border: 3px solid #73AD21;
+    padding: 20px;
+    margin: auto;
+/*        bottom: 50%;
+     position: absolute;
+ */    }
+ 
+ #MCQ, #Text, #BOOLEAN{
+ 	text-align:center;
+ }
+ .startexambtn{
+/*  display: none;
+ */ }
